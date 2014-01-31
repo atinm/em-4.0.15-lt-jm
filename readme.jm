@@ -1,0 +1,13 @@
+
+This version has been fixed to compile on a Linux
+
+- Ubuntu 9.10 x86_64
+- gcc 4.4.1
+
+You may need to do "sudo apt-get install libncurses-dev"
+
+(this document was written with the compiled binary :)
+
+Jukka Manner
+29.7.2010
+
